@@ -1,5 +1,21 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on Interactive Websites and Computer Vision Based Projects<br>🤝 I’m looking for help with Graphic Designing<br>🌱 I’m currently learning Docker and C#<br>💬 Ask me about Anything<br>⚡ Fun fact : Computer Technology is still my passion
+### 💡 About Me
+
+I'm a Master's student at **USC** building at the intersection of **Artificial Intelligence** and **Interactive Experience**.
+
+I don't just build models; I build full-stack products. I thrive on taking an idea from a blank file to a deployed application, whether it's an AI pipeline that runs **85% faster**, a React UI that feels **2x more responsive**, or a 3D world in **Unreal Engine**.
+
+---
+
+### 🎮 My Current Obsessions
+
+Right now, I'm heads-down on two passion projects:
+
+* **Evolve Web (Alpha):** Architecting a full-stack wellness app that uses a **Retrieval-Augmented AI (RAG)** coach to deliver truly personalized health plans.
+* **PromptQuest:** Developing a 3D adventure game in UE5 to teach the art and science of prompt engineering.
+
+I'm here to collaborate on ambitious projects that require both deep technical knowledge and a human-centered design.
+
+* **Ask Me About:** `AI/ML` | `Full-Stack Development` | `Computer Vision` | `Game Dev (Unreal/C#)`
 
 
 ## 🌐 Socials:
